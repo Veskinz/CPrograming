@@ -1,1 +1,3 @@
-# CPrograming
+# Programing homeworks repository
+
+Това е хранилище, съдържащо домашни работи по програмиране на Веселин Андреев 9в клас
