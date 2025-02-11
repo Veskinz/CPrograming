@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mystrings.h": "c"
+    },
+    "makefile.makePath": "make",
+    "makefile.makefilePath": "Makefile.mk"
+}
